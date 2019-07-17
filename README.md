@@ -8,6 +8,17 @@ _JetBrains官方网址：https://plugins.jetbrains.com/_
 - Code-Glance 小地图
 - HighlightBracketPairqeesung 高亮
 - Markdown support 支持markdown
+- .env files support 
+- Api Debugger 在线调试工具
+- Background Image Plus 可以设置背景音乐
+- BashSupport 支持bash
+- EditorConfig 
+- Ideolog 方便查看日志
+- Nyan Progress Bar 超可爱的进度条
+- Rainbow Brackets 好看的括号
+- RegexpTester 正则匹配工具
+- String Manipulation 忘记干啥用的了
+- Translation 翻译工具
 
 
 ## 电脑软件（windows

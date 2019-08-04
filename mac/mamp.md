@@ -62,3 +62,5 @@
 ```
 - 开启文件的权限 sudo chmod 777 文件名
 - 开启PHP的openssl
+- 开启PHP的mod_rewrite
+

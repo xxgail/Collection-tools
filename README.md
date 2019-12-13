@@ -36,10 +36,14 @@ _JetBrains官方网址：https://plugins.jetbrains.com/_
 - Checker Plus for Gmail  邮件助手
 - Custom Cursor for Chrome  网页内自定义光标
 - 档案娘  批量删除微博
+- 简悦-SimpRead 可以进入阅读模式
+- 九章刷题小助手 刷算法题找答案用
 - JSON-handle  处理接口返回数据，json格式化工具
 - Octotree  GitHub code tree
 - OneTab  标签页面管理工具
 - 七牛云图床  七牛云云存储管理图床的插件
+- 鼠标点击特效₍ᐢ⸝⸝› ̫ ‹⸝⸝ᐢ₎ 
+- [Sourcegraph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack)  github辅助工具
 - Wappalyzer  查看网页的代码及框架
 - Weatherly  查看天气插件
 - WEB前端助手(FeHelper)  好多工具比如：Json工具、代码美化工具、
